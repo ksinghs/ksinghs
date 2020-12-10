@@ -17,8 +17,5 @@ Hi, I'm Kundan Singh, a software engineer with passion of becoming an AI Enginee
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code>img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fplsqlcamp&psig=AOvVaw3nWqW3rwQLNMk69ld-Y0j5&ust=1607724480253000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLC48su2xO0CFQAAAAAdAAAAABAD"></code>
 
-
-
-
-![](https://still-brushlands-82734.herokuapp.com/countercheck)
