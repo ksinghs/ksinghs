@@ -1,6 +1,4 @@
-### Hey 👋🏽, I'm [Kundan Singh!] (https://ksinghs.github.io)  <a href="https://www.linkedin.com/in/kundan-singh-007/"> <img align="left" alt="Kundan Singh LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  
-</a>
-<br />
+### Hey 👋🏽, I'm [Kundan Singh!] (https://ksinghs.github.io)  
 
 Hi, I'm Kundan Singh, a software engineer with passion of becoming an AI Engineer.
 
