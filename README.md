@@ -10,9 +10,13 @@ Hi, I'm Kundan Singh, Data Analyst with passion of Business Intelligence using M
 - 📝[Resume]
 
 **Languages and Tools:**  
-# Programming : Python, SQL, PL/SQL
-# ETL Tools: ODI, Pentaho
-# BI Tools: Tableau, Power BI, Microstrategy
-# Analytics: Google Analytics
+ * Programming : Python, SQL, PL/SQL 
+ * ETL Tools: ODI, Pentaho
+ * BI Tools: Tableau, Power BI, Microstrategy 
+ * Analytics: Google Analytics
+
+
+
+
 
 
