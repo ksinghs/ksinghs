@@ -1,8 +1,8 @@
 ### Hey 👋🏽, I'm [Kundan Singh!]   
 
-Hi, I'm Kundan Singh, a software engineer cum Data Analyst with passion of Business Intelligence using Artificial Intelligence.
+Hi, I'm Kundan Singh, Data Analyst with passion of Business Intelligence using Machine learning and cutting edge technologies.
 
-- 🔭 I’m currently studying masters in University of Genoa, Italy, likely to be graduated by 2021.
+- 🔭 I’m currently studying masters in University of Genoa, Italy, likely to be graduated by 2022.
 - 🌱 I’m currently learning Data Science and Business Analytics passionately.
 - 👯 I’m looking to collaborate on some cool BI projects in Politics and Trading.
 - 💬 Ask me about anything [here](https://github.com/ksinghs/ksinghs/issues)
@@ -10,10 +10,9 @@ Hi, I'm Kundan Singh, a software engineer cum Data Analyst with passion of Busin
 - 📝[Resume]
 
 **Languages and Tools:**  
-** PYTHON
-** PL/SQL
-** ORACLE
-** ETL
-** C#
+# Programming : Python, SQL, PL/SQL
+# ETL Tools: ODI, Pentaho
+# BI Tools: Tableau, Power BI, Microstrategy
+# Analytics: Google Analytics
 
 
