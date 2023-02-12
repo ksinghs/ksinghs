@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Kundan Singh!]   
 
-Hi, I'm Kundan Singh, Data Analyst with passion of Business Intelligence using Machine learning and cutting edge technologies.
+Hi, I'm Kundan Singh, Data Engineer with passion of Business Intelligence using Machine learning and cutting edge technologies.
 
 - 🔭 I’m currently studying masters in University of Genoa, Italy, likely to be graduated by 2022.
 - 🌱 I’m currently learning Data Science and Business Analytics passionately.
