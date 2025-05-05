@@ -10,7 +10,7 @@
 
 🔧 Tech Stack & Tools
   Python, SQL, AZure, MongoDB, MySQL, Airflow, Dune, Kafka, dbt, power BI, GitHub
-
+  
 📌 What I'm Currently Building
       🔹 Data lake and pipelines – Helping businesses end to end data injestion to reporting.
       🔹 Dashboard and Report – Optimized, high-performance dashboard, with reports.
