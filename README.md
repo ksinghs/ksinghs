@@ -13,8 +13,7 @@
   
 📌 What I'm Currently Building
 
-      🔭 I’m currently working on DeFI AMM Metrics Dashboard, Blockchain Data Pipeline.
-      🌱 I’m learning Solidity for blockchain development and research.
+    
       🔹 Data lake and pipelines – Helping businesses end to end data injestion to reporting.
       🔹 Dashboard and Report – Optimized, high-performance dashboard, with reports.
       🔹 Blockchain Projects – Learning solidity & Polkadot development.
