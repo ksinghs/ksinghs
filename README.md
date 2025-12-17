@@ -1,5 +1,5 @@
 ### Hey 👋🏽, I'm [Kundan Singh!]  👋 
-🚀 Data Engineer | Business Intelligence Developer | Blockchain Enthusiast
+🚀 Senior Data Engineer | Business Intelligence Developer | Blockchain Enthusiast
 
       🔭 I’m currently working on DeFI AMM Metrics Dashboard, Blockchain Data Pipeline.
       🌱 I’m learning Solidity for blockchain development and research.
